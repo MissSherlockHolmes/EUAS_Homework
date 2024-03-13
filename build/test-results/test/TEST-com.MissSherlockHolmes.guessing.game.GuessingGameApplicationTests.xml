@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.MissSherlockHolmes.guessing.game.GuessingGameApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-03-13T23:10:13" hostname="MissSherlock.local" time="1.044">
+  <properties/>
+  <testcase name="contextLoads()" classname="com.MissSherlockHolmes.guessing.game.GuessingGameApplicationTests" time="1.044"/>
+  <system-out><![CDATA[01:10:11.135 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.MissSherlockHolmes.guessing.game.GuessingGameApplicationTests]: GuessingGameApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+01:10:11.245 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.MissSherlockHolmes.guessing.game.GuessingGameApplication for test class com.MissSherlockHolmes.guessing.game.GuessingGameApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.2.3)
+
+2024-03-14T01:10:11.704+02:00  INFO 71585 --- [guessing-game] [    Test worker] c.M.g.game.GuessingGameApplicationTests  : Starting GuessingGameApplicationTests using Java 20 with PID 71585 (started by missherlock in /Users/missherlock/githubhomework/EUAS_Homework)
+2024-03-14T01:10:11.706+02:00  INFO 71585 --- [guessing-game] [    Test worker] c.M.g.game.GuessingGameApplicationTests  : No active profile set, falling back to 1 default profile: "default"
+2024-03-14T01:10:13.423+02:00  INFO 71585 --- [guessing-game] [    Test worker] c.M.g.game.GuessingGameApplicationTests  : Started GuessingGameApplicationTests in 2.066 seconds (process running for 3.332)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
